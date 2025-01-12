@@ -1,4 +1,8 @@
 {
-  "welcome": "Hoş geldiniz",
-  "getStarted": "Başlayın"
+  "back": "Geri Dön",
+  "cancel": "İptal",
+  "confirm": "Tamam",
+  "unsavedChanges": "Kaydedilmemiş Değişiklikler",
+  "unsavedChangesMessage": "Kaydedilmemiş değişiklikleriniz var. Çıkmak istediğinizden emin misiniz?",
+  "pleaseWait": "Lütfen bekleyin..."
 } 
